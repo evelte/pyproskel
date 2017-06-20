@@ -26,4 +26,4 @@ The subdirectory *project_name* is the actual python module, with its correspond
 *See below a screenshot of the running script*
 
 ![Image of screenshot]
-(https://github.com/evelte/pyproskel/blob/master/screenshot.png)
+(screenshot.png)
