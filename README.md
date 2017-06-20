@@ -21,3 +21,8 @@ project_name
 
 The top level directory is the root of the project, as well as the root of the VCS (git in this case).
 The subdirectory *project_name* is the actual python module, with its corresponding __init__ file.
+
+
+*See below a screenshot of the running script*
+![Screenshot]
+(https://github.com/evelte/pyproskel/blob/master/screenshot.png)
