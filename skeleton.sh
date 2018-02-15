@@ -58,7 +58,7 @@ mkdir -p $project_name/logs
 echo "from setuptools import setup
 
 setup(name='$project_name',
-      version=version,
+      version=0.0,
       url='http://$project_name.org',
       description='',
       author='',
