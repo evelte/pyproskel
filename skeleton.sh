@@ -19,7 +19,7 @@ echo '
  \  This is a simple bash script, which creates a    /
   \  complete project structure for you, ready to   / 
    \       use on your new python project!         /
-   /  In order to execut, execute this script from \   
+   / In order to proceed, execute this script from \   
   / the directory where you want to start your new  \
  /        project, and you are ready to go.          \   
 /_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _\ 
